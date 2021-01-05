@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0df3ed2.chunk.css",
+    "main.js": "/static/js/main.07df108b.chunk.js",
+    "main.js.map": "/static/js/main.07df108b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d51f1b9c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d51f1b9c.js.map",
+    "static/js/2.e5e34533.chunk.js": "/static/js/2.e5e34533.chunk.js",
+    "static/js/2.e5e34533.chunk.js.map": "/static/js/2.e5e34533.chunk.js.map",
+    "static/js/3.33df7066.chunk.js": "/static/js/3.33df7066.chunk.js",
+    "static/js/3.33df7066.chunk.js.map": "/static/js/3.33df7066.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c0df3ed2.chunk.css.map": "/static/css/main.c0df3ed2.chunk.css.map",
+    "static/js/2.e5e34533.chunk.js.LICENSE.txt": "/static/js/2.e5e34533.chunk.js.LICENSE.txt",
+    "static/media/pexels-kevin-ku-577585.3150c426.jpg": "/static/media/pexels-kevin-ku-577585.3150c426.jpg",
+    "static/media/pexels-negative-space-169573.9a2dc644.jpg": "/static/media/pexels-negative-space-169573.9a2dc644.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d51f1b9c.js",
+    "static/js/2.e5e34533.chunk.js",
+    "static/css/main.c0df3ed2.chunk.css",
+    "static/js/main.07df108b.chunk.js"
+  ]
+}
